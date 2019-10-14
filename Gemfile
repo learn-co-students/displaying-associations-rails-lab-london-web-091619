@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem "pry"
+gem "pry-doc"
+
 gem 'rails', '5.0.7.1'
 gem 'sqlite3', '~>1.3.6'
 gem 'sass-rails', '~> 5.0'
